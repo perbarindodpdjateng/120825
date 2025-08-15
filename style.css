@@ -11,7 +11,7 @@ body {
 #login-container, #viewer-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: top;
   padding: 30px;
   width: 100%;
   text-align: center;
@@ -54,3 +54,4 @@ a:hover {
     width: 80%;
   }
 }
+
