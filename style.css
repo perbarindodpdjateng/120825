@@ -1,7 +1,7 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: top;
   min-height: 100vh;
   margin: 0;
   background-color: #eef2f3;
@@ -54,6 +54,7 @@ a:hover {
     width: 80%;
   }
 }
+
 
 
 
